@@ -1,0 +1,11 @@
+xst -intstyle ise -ifn "C:/Users/Dr.Fly/Desktop/FPGAAdders/fpgaproject/KoggeStone32b.xst" -ofn "C:/Users/Dr.Fly/Desktop/FPGAAdders/fpgaproject/KoggeStone32b.syr" 
+xst -intstyle ise -ifn "C:/Users/Dr.Fly/Desktop/FPGAAdders/fpgaproject/KoggeStone32b.xst" -ofn "C:/Users/Dr.Fly/Desktop/FPGAAdders/fpgaproject/KoggeStone32b.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-5 KoggeStone32b.ngc KoggeStone32b.ngd  
+map -intstyle ise -p xc3s50-pq208-5 -cm area -ir off -pr off -c 100 -o KoggeStone32b_map.ncd KoggeStone32b.ngd KoggeStone32b.pcf 
+par -w -intstyle ise -ol high -t 1 KoggeStone32b_map.ncd KoggeStone32b.ncd KoggeStone32b.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml KoggeStone32b.twx KoggeStone32b.ncd -o KoggeStone32b.twr KoggeStone32b.pcf 
+xst -intstyle ise -ifn "C:/Users/Dr.Fly/Desktop/FPGAAdders/fpgaproject/KoggeStone32b.xst" -ofn "C:/Users/Dr.Fly/Desktop/FPGAAdders/fpgaproject/KoggeStone32b.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-5 KoggeStone32b.ngc KoggeStone32b.ngd  
+map -intstyle ise -p xc3s50-pq208-5 -cm area -ir off -pr off -c 100 -o KoggeStone32b_map.ncd KoggeStone32b.ngd KoggeStone32b.pcf 
+par -w -intstyle ise -ol high -t 1 KoggeStone32b_map.ncd KoggeStone32b.ncd KoggeStone32b.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml KoggeStone32b.twx KoggeStone32b.ncd -o KoggeStone32b.twr KoggeStone32b.pcf 

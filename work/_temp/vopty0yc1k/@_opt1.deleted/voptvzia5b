@@ -1,0 +1,190 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Dr.Fly\Desktop\Code
+T_opt
+VeWEE6gl37f0?EWoz:^ZQa3
+04 16 4 work rippleCarry2b_tb fast 0
+=1-34e6d7143785-65b3dda4-3b9-1c54
+Z1 o-quiet -auto_acc_if_foreign -work work
+n@_opt
+Z2 OE;O;10.1c;51
+Z3 dC:\Users\Dr.Fly\Desktop\Code
+T_opt1
+V2@of`BTDORo@R[T[c43Ya2
+04 17 4 work rippleCarry32b_tb fast 0
+=1-34e6d7143785-65b3e0eb-270-1760
+R1
+n@_opt1
+R2
+vBlackCell
+I76IR]34?FS`X1zN7nY?OW1
+VNBJ9hPaa?G[Z6bnI:7[I40
+Z4 dC:\Users\Dr.Fly\Desktop\FPGAAdders
+w1706278452
+8C:/Users/Dr.Fly/Desktop/FPGAAdders/BlackCell.v
+FC:/Users/Dr.Fly/Desktop/FPGAAdders/BlackCell.v
+L0 1
+Z5 OE;L;10.1c;51
+r1
+31
+Z6 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+n@black@cell
+!s100 oake_f7acSJon??=ZX51V3
+!s108 1706278483.996000
+!s107 C:/Users/Dr.Fly/Desktop/FPGAAdders/BlackCell.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Dr.Fly/Desktop/FPGAAdders/BlackCell.v|
+!i10b 1
+!s85 0
+vGPCell
+IAcKDB@:L40NiQb7CJdDE[0
+VJSW`ajnR51LMSli9K=V@53
+R4
+w1705013462
+8C:/Users/Dr.Fly/Desktop/FPGAAdders/GPCell.v
+FC:/Users/Dr.Fly/Desktop/FPGAAdders/GPCell.v
+L0 1
+R5
+r1
+31
+R6
+n@g@p@cell
+!s100 OOAa?EC`OjOJ[WkhY7J9C1
+!s108 1706278387.010000
+!s107 C:/Users/Dr.Fly/Desktop/FPGAAdders/GPCell.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Dr.Fly/Desktop/FPGAAdders/GPCell.v|
+!i10b 1
+!s85 0
+vGrayCell
+I<KYlJZ_H?@dAa10V<kP=92
+VO@KIHMU>hF?IgUS5z]eBZ0
+R4
+w1705084350
+8C:/Users/Dr.Fly/Desktop/FPGAAdders/GrayCell.v
+FC:/Users/Dr.Fly/Desktop/FPGAAdders/GrayCell.v
+L0 2
+R5
+r1
+31
+R6
+n@gray@cell
+!s100 =SNjIzaL5J2R@JX:aO_n92
+!s108 1706278387.135000
+!s107 C:/Users/Dr.Fly/Desktop/FPGAAdders/GrayCell.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Dr.Fly/Desktop/FPGAAdders/GrayCell.v|
+!i10b 1
+!s85 0
+vrippleCarry
+I0ZWSRR5Cg?Jbma3HGZ?3]1
+V:TdjeWBU5]]CW?hCkehLX0
+R4
+w1706281033
+8C:/Users/Dr.Fly/Desktop/FPGAAdders/RippleCarry.v
+FC:/Users/Dr.Fly/Desktop/FPGAAdders/RippleCarry.v
+L0 1
+R5
+r1
+31
+R6
+nripple@carry
+!s100 XKcNkXhhKoOQ3;7=FSR;M0
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Dr.Fly/Desktop/FPGAAdders/RippleCarry.v|
+!s108 1706281161.594000
+!s107 C:/Users/Dr.Fly/Desktop/FPGAAdders/RippleCarry.v|
+!i10b 1
+!s85 0
+vrippleCarry2b
+IKeUZ;gCn6HBDD]4Qafgg:1
+VdR_V4_=l]Db:@Hh8_4:@K1
+R4
+Z7 w1706286478
+8C:/Users/Dr.Fly/Desktop/FPGAAdders/rippleCarry2b.v
+FC:/Users/Dr.Fly/Desktop/FPGAAdders/rippleCarry2b.v
+L0 1
+R5
+r1
+31
+R6
+nripple@carry2b
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Dr.Fly/Desktop/FPGAAdders/rippleCarry2b.v|
+!s100 _oF?Ccf2o^`TVZFPaf;>M2
+!s108 1706286487.874000
+!s107 C:/Users/Dr.Fly/Desktop/FPGAAdders/rippleCarry2b.v|
+!i10b 1
+!s85 0
+vrippleCarry2b_tb
+I<UJA6b3o?0Fm6Ff<V^0Ym2
+VQFfE]]XLKg^dlYd^nD<[82
+R4
+R7
+Z8 8C:/Users/Dr.Fly/Desktop/FPGAAdders/rippleCarry2b_tb.v
+Z9 FC:/Users/Dr.Fly/Desktop/FPGAAdders/rippleCarry2b_tb.v
+L0 1
+R5
+r1
+31
+Z10 !s90 -reportprogress|300|-work|work|-vopt|C:/Users/Dr.Fly/Desktop/FPGAAdders/rippleCarry2b_tb.v|
+R6
+nripple@carry2b_tb
+Z11 !s107 C:/Users/Dr.Fly/Desktop/FPGAAdders/rippleCarry2b_tb.v|
+!s100 A8:VT5Y8F><IIn;LZ:Hb23
+!s108 1706286491.097000
+!i10b 1
+!s85 0
+vrippleCarry32b
+If@hbeb5nP<FY1XUA?dPlA0
+V43<l?24n@heTK>_fU;PUT1
+R4
+Z12 w1706287142
+8C:/Users/Dr.Fly/Desktop/FPGAAdders/rippleCarry32b.v
+FC:/Users/Dr.Fly/Desktop/FPGAAdders/rippleCarry32b.v
+L0 1
+R5
+r1
+31
+R6
+nripple@carry32b
+!s100 ZJG9a244T@flTT4aeoV4?3
+!s108 1706287276.655000
+!s107 C:/Users/Dr.Fly/Desktop/FPGAAdders/rippleCarry32b.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Dr.Fly/Desktop/FPGAAdders/rippleCarry32b.v|
+!i10b 1
+!s85 0
+vrippleCarry32b_tb
+Ie;3_7O=Q`[3?`4edPD3nl3
+VE65CJ:IzDkRWVCP77k30g3
+R4
+R12
+8C:/Users/Dr.Fly/Desktop/FPGAAdders/rippleCarry32b_tb.v
+FC:/Users/Dr.Fly/Desktop/FPGAAdders/rippleCarry32b_tb.v
+L0 1
+R5
+r1
+31
+R6
+nripple@carry32b_tb
+!i10b 1
+!s100 YO;mEDfRm>gjcPDU2Wh5B1
+!s85 0
+!s108 1706287276.727000
+!s107 C:/Users/Dr.Fly/Desktop/FPGAAdders/rippleCarry32b_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Dr.Fly/Desktop/FPGAAdders/rippleCarry32b_tb.v|
+vtestbench
+I2Y@ZaB3`eESf3HWn2SFzV2
+VhGfW:390DM[oDMzegDH9`2
+R4
+w1706280805
+R8
+R9
+L0 1
+R5
+r1
+31
+R10
+R6
+R11
+!s100 bjWZ4P[ZcK74TQZCMPZeG2
+!s108 1706280818.765000
+!i10b 1
+!s85 0

@@ -1,0 +1,25 @@
+Running: E:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -o C:/Users/Dr.Fly/Desktop/FPGAAdders/fpgaproject/BrentKung8b_tb_isim_beh.exe -prj C:/Users/Dr.Fly/Desktop/FPGAAdders/fpgaproject/BrentKung8b_tb_beh.prj work.BrentKung8b_tb work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Users/Dr.Fly/Desktop/FPGAAdders/fpgaproject/../GrayCell.v" into library work
+Analyzing Verilog file "C:/Users/Dr.Fly/Desktop/FPGAAdders/fpgaproject/../GPCell.v" into library work
+Analyzing Verilog file "C:/Users/Dr.Fly/Desktop/FPGAAdders/fpgaproject/../BlackCell.v" into library work
+Analyzing Verilog file "C:/Users/Dr.Fly/Desktop/FPGAAdders/fpgaproject/../BrentKung8b.v" into library work
+Analyzing Verilog file "C:/Users/Dr.Fly/Desktop/FPGAAdders/fpgaproject/../BrentKung8b_tb.v" into library work
+Analyzing Verilog file "E:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module BlackCell
+Compiling module GPCell
+Compiling module GrayCell
+Compiling module BrentKung8b
+Compiling module BrentKung8b_tb
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 6 Verilog Units
+Built simulation executable C:/Users/Dr.Fly/Desktop/FPGAAdders/fpgaproject/BrentKung8b_tb_isim_beh.exe
+Fuse Memory Usage: 27444 KB
+Fuse CPU Usage: 374 ms

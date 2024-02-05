@@ -1,0 +1,10 @@
+Command line:
+   KoggeStone32b_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  29061
+
+Sun Jan 28 12:01:22 2024
+
+
+ Elaboration Time: 0.46875 sec

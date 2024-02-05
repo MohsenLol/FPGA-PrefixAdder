@@ -1,0 +1,10 @@
+Command line:
+   BrentKung16b_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  22447
+
+Fri Feb 02 12:28:34 2024
+
+
+ Elaboration Time: 0.5 sec

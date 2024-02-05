@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/Dr.Fly/Desktop/FPGAAdders/fpgaproject/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/Dr.Fly/Desktop/FPGAAdders/fpgaproject/xst"
+elaborate
+-ifn BrentKung16b.prj
+-ifmt mixed

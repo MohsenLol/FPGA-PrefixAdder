@@ -1,0 +1,28 @@
+Command line:
+   BrentKung8b_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  23972
+
+Fri Feb 02 12:32:11 2024
+
+
+ Elaboration Time: 0.53125 sec
+
+ Current Memory Usage: 5163.16 Meg
+
+ Total Signals          : 144
+ Total Nets             : 89
+ Total Signal Drivers   : 67
+ Total Blocks           : 22
+ Total Primitive Blocks : 20
+ Total Processes        : 69
+ Total Traceable Variables  : 24
+ Total Scalar Nets and Variables : 228
+
+ Total Simulation Time: 1.6875 sec
+
+ Current Memory Usage: 4691.3 Meg
+
+Fri Feb 02 12:45:48 2024
+

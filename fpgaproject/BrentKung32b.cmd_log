@@ -1,0 +1,5 @@
+xst -intstyle ise -ifn "C:/Users/Dr.Fly/Desktop/FPGAAdders/fpgaproject/BrentKung32b.xst" -ofn "C:/Users/Dr.Fly/Desktop/FPGAAdders/fpgaproject/BrentKung32b.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-5 BrentKung32b.ngc BrentKung32b.ngd  
+map -intstyle ise -p xc3s50-pq208-5 -cm area -ir off -pr off -c 100 -o BrentKung32b_map.ncd BrentKung32b.ngd BrentKung32b.pcf 
+par -w -intstyle ise -ol high -t 1 BrentKung32b_map.ncd BrentKung32b.ncd BrentKung32b.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml BrentKung32b.twx BrentKung32b.ncd -o BrentKung32b.twr BrentKung32b.pcf 

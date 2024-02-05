@@ -1,0 +1,3 @@
+verilog work "../GrayCell.v"
+verilog work "../GPCell.v"
+verilog work "../rippleCarry8b.v"

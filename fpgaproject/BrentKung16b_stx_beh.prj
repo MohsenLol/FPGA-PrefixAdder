@@ -1,0 +1,5 @@
+verilog isim_temp "../GrayCell.v"
+verilog isim_temp "../GPCell.v"
+verilog isim_temp "../BlackCell.v"
+verilog isim_temp "../BrentKung16b.v"
+verilog isim_temp "E:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

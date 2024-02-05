@@ -1,0 +1,749 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Dr.Fly\Desktop\Code
+T_opt
+V^9j=jbdzK<3cDLWSog;fN3
+04 16 4 work KoggeStone32b_tb fast 0
+=1-34e6d7143785-65b6b095-bf-3714
+Z1 o-quiet -auto_acc_if_foreign -work work
+n@_opt
+Z2 OE;O;10.1c;51
+Z3 dC:\Users\Dr.Fly\Desktop\Code
+T_opt1
+V@E324U]4mP:no`XOFg75;1
+04 16 4 work HanCarlson32b_tb fast 0
+=1-34e6d7143785-65b66092-311-2788
+R1
+n@_opt1
+R2
+R3
+T_opt2
+VXInFbfMYeRi;RdI5<eglo2
+04 15 4 work BrentKung8b_rtb fast 0
+=1-34e6d7143785-65be0b08-1b9-1f0
+R1
+n@_opt2
+R2
+vBlackCell
+I76IR]34?FS`X1zN7nY?OW1
+VNBJ9hPaa?G[Z6bnI:7[I40
+Z4 dC:\Users\Dr.Fly\Desktop\FPGAAdders
+w1706278452
+8C:/Users/Dr.Fly/Desktop/FPGAAdders/BlackCell.v
+FC:/Users/Dr.Fly/Desktop/FPGAAdders/BlackCell.v
+L0 1
+Z5 OE;L;10.1c;51
+r1
+31
+Z6 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+n@black@cell
+!s100 oake_f7acSJon??=ZX51V3
+!s108 1706278483.996000
+!s107 C:/Users/Dr.Fly/Desktop/FPGAAdders/BlackCell.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Dr.Fly/Desktop/FPGAAdders/BlackCell.v|
+!i10b 1
+!s85 0
+vBrentKung16b
+!s100 W>YEPfRnW>^4]2WHHz3T:0
+Id4iUc:_fc82LN2zhaZKAh0
+VX0S[]V1UON]gh4VUK1m:A1
+R4
+Z7 w1706953465
+8C:\Users\Dr.Fly\Desktop\FPGAAdders\modules\BrentKung16b.v
+FC:\Users\Dr.Fly\Desktop\FPGAAdders\modules\BrentKung16b.v
+L0 1
+R5
+r1
+31
+!s90 -reportprogress|300|-work|work|-vopt|C:\Users\Dr.Fly\Desktop\FPGAAdders\modules\BrentKung16b.v|
+R6
+n@brent@kung16b
+!s108 1706953471.716000
+!s107 C:\Users\Dr.Fly\Desktop\FPGAAdders\modules\BrentKung16b.v|
+!i10b 1
+!s85 0
+vBrentKung16b_etb
+!s100 Cl3kJmZdoo>_mFReBnR3W1
+I]K6H9S8Z;ZfL:]z3I?PT]0
+Vz?E[8^WQC8ZBWgdL:JHQb2
+R4
+R7
+Z8 8C:\Users\Dr.Fly\Desktop\FPGAAdders\modules\BrentKung16b_etb.v
+Z9 FC:\Users\Dr.Fly\Desktop\FPGAAdders\modules\BrentKung16b_etb.v
+L0 3
+R5
+r1
+31
+Z10 !s90 -reportprogress|300|-work|work|-vopt|C:\Users\Dr.Fly\Desktop\FPGAAdders\modules\BrentKung16b_etb.v|
+R6
+n@brent@kung16b_etb
+!s108 1706953471.803000
+Z11 !s107 C:\Users\Dr.Fly\Desktop\FPGAAdders\modules\BrentKung16b_etb.v|
+!i10b 1
+!s85 0
+vBrentKung16b_tb
+!s100 e_>IPKDeZ70AVD8NeW;5E2
+Icko6^1ljd=33N6;H4fk6a3
+Vii4_lcLIRjmNEFE0cf_R[2
+R4
+Z12 w1706952668
+R8
+R9
+L0 3
+R5
+r1
+31
+R10
+R6
+n@brent@kung16b_tb
+!s108 1706952678.762000
+R11
+!i10b 1
+!s85 0
+vBrentKung32b
+!s100 ?I;G7O>jXb_o;=3jE:M9`3
+I9@MDXc[GIT0>:Hi5IZEJ_1
+VMMWOH3g_5Ihf_di`4NKCn2
+R4
+R7
+8C:/Users/Dr.Fly/Desktop/FPGAAdders/modules/BrentKung32b.v
+FC:/Users/Dr.Fly/Desktop/FPGAAdders/modules/BrentKung32b.v
+L0 1
+R5
+r1
+31
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Dr.Fly/Desktop/FPGAAdders/modules/BrentKung32b.v|
+R6
+n@brent@kung32b
+!s108 1706953471.884000
+!s107 C:/Users/Dr.Fly/Desktop/FPGAAdders/modules/BrentKung32b.v|
+!i10b 1
+!s85 0
+vBrentKung32b_etb
+!s100 6V>H[D]UiVMQQ@MKePIb21
+IamHNRNb1]2e2UhT:lN=Hm1
+VDFSfSQVV^Xz7CnYFo`S]Y0
+R4
+R7
+Z13 8C:/Users/Dr.Fly/Desktop/FPGAAdders/modules/BrentKung32b_etb.v
+Z14 FC:/Users/Dr.Fly/Desktop/FPGAAdders/modules/BrentKung32b_etb.v
+L0 3
+R5
+r1
+31
+Z15 !s90 -reportprogress|300|-work|work|-vopt|C:/Users/Dr.Fly/Desktop/FPGAAdders/modules/BrentKung32b_etb.v|
+R6
+n@brent@kung32b_etb
+!s108 1706953471.978000
+Z16 !s107 C:/Users/Dr.Fly/Desktop/FPGAAdders/modules/BrentKung32b_etb.v|
+!i10b 1
+!s85 0
+vBrentKung32b_tb
+!s100 4an[GeE9GfT?UElV8Qi=R1
+IQ>i_QSWcY`mR^I6>S^TD^0
+VZ;Lak7]JY:BzSWY5g<jRE0
+R4
+R12
+R13
+R14
+L0 3
+R5
+r1
+31
+R15
+R6
+n@brent@kung32b_tb
+!s108 1706952678.926000
+R16
+!i10b 1
+!s85 0
+vBrentKung64b
+!s100 =>Hz;5DZOIHU@75XWD<Xl2
+Iki6TXHBS;X67z?4JALghS1
+V4PhXOW]`eZ_TVOI5YM[B63
+R4
+R7
+8C:/Users/Dr.Fly/Desktop/FPGAAdders/modules/BrentKung64b.v
+FC:/Users/Dr.Fly/Desktop/FPGAAdders/modules/BrentKung64b.v
+L0 1
+R5
+r1
+31
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Dr.Fly/Desktop/FPGAAdders/modules/BrentKung64b.v|
+R6
+n@brent@kung64b
+!s108 1706953472.072000
+!s107 C:/Users/Dr.Fly/Desktop/FPGAAdders/modules/BrentKung64b.v|
+!i10b 1
+!s85 0
+vBrentKung64b_etb
+!s100 _[HbZK8bIUGFSaSoQ_g431
+I>8eI8JFW:M7K9:i[fX^C33
+V_TREI=Qh8TF?C`gKZ7]Y=3
+R4
+R7
+Z17 8C:/Users/Dr.Fly/Desktop/FPGAAdders/modules/BrentKung64b_etb.v
+Z18 FC:/Users/Dr.Fly/Desktop/FPGAAdders/modules/BrentKung64b_etb.v
+L0 3
+R5
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|-vopt|C:/Users/Dr.Fly/Desktop/FPGAAdders/modules/BrentKung64b_etb.v|
+R6
+n@brent@kung64b_etb
+!i10b 1
+!s85 0
+!s108 1706953472.188000
+Z20 !s107 C:/Users/Dr.Fly/Desktop/FPGAAdders/modules/BrentKung64b_etb.v|
+vBrentKung64b_tb
+!s100 h0h`T2ORk>?W;4fYDXn583
+IbFeEkDoBizh]9=bSb=eNP0
+VKo@joLEeI=YJP2bKZ]JQD1
+R4
+R12
+R17
+R18
+L0 3
+R5
+r1
+31
+R19
+R6
+n@brent@kung64b_tb
+!s108 1706952679.118000
+R20
+!i10b 1
+!s85 0
+vBrentKung8b
+!s100 T@3QaRJ7UIz>C1bk4ZXLI2
+Ifac^ncNEMnH_D4Mj[4@hz1
+V9GdHGQGnBe<<OLKo7T5?I2
+R4
+R7
+8C:/Users/Dr.Fly/Desktop/FPGAAdders/modules/BrentKung8b.v
+FC:/Users/Dr.Fly/Desktop/FPGAAdders/modules/BrentKung8b.v
+L0 1
+R5
+r1
+31
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Dr.Fly/Desktop/FPGAAdders/modules/BrentKung8b.v|
+R6
+n@brent@kung8b
+!s108 1706953471.443000
+!s107 C:/Users/Dr.Fly/Desktop/FPGAAdders/modules/BrentKung8b.v|
+!i10b 1
+!s85 0
+vBrentKung8b_etb
+!s100 =;LYmYj3152DeRmhIW2PX1
+IL0AR8>WMaIMbRPE>i_B8n1
+V:>4zO;Q:F8:Mb7kOT?LOQ0
+R4
+R7
+8C:\Users\Dr.Fly\Desktop\FPGAAdders\modules\BrentKung8b_etb.v
+FC:\Users\Dr.Fly\Desktop\FPGAAdders\modules\BrentKung8b_etb.v
+L0 3
+R5
+r1
+31
+!s90 -reportprogress|300|-work|work|-vopt|C:\Users\Dr.Fly\Desktop\FPGAAdders\modules\BrentKung8b_etb.v|
+R6
+n@brent@kung8b_etb
+!s108 1706953471.537000
+!s107 C:\Users\Dr.Fly\Desktop\FPGAAdders\modules\BrentKung8b_etb.v|
+!i10b 1
+!s85 0
+vBrentKung8b_rtb
+I71Xf<mjah>IFCRbNW2=Z:1
+VO2EHSNbiOUa2gHjeiPnBd1
+R4
+R7
+8C:\Users\Dr.Fly\Desktop\FPGAAdders\modules\BrentKung8b_rtb.v
+FC:\Users\Dr.Fly\Desktop\FPGAAdders\modules\BrentKung8b_rtb.v
+L0 3
+R5
+r1
+31
+R6
+n@brent@kung8b_rtb
+!s100 ;PjmdZkmG][V:5UCZMmlD2
+!s108 1706953471.629000
+!s107 C:\Users\Dr.Fly\Desktop\FPGAAdders\modules\BrentKung8b_rtb.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:\Users\Dr.Fly\Desktop\FPGAAdders\modules\BrentKung8b_rtb.v|
+!i10b 1
+!s85 0
+vBrentKung8b_tb
+IZ1@N;Mdb8LT`Z>>6Z??Gg1
+VjRLT3LEMaozNU>QJ1Sz:J2
+R4
+w1706952222
+8C:/Users/Dr.Fly/Desktop/FPGAAdders/modules/BrentKung8b_rtb.v
+FC:/Users/Dr.Fly/Desktop/FPGAAdders/modules/BrentKung8b_rtb.v
+L0 3
+R5
+r1
+31
+R6
+n@brent@kung8b_tb
+!s100 Zmm]o7b]<N1m`c^Gl>7E53
+!s108 1706952678.540000
+!s107 C:/Users/Dr.Fly/Desktop/FPGAAdders/modules/BrentKung8b_rtb.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Dr.Fly/Desktop/FPGAAdders/modules/BrentKung8b_rtb.v|
+!i10b 1
+!s85 0
+vGPCell
+IAcKDB@:L40NiQb7CJdDE[0
+VJSW`ajnR51LMSli9K=V@53
+R4
+w1705013462
+8C:/Users/Dr.Fly/Desktop/FPGAAdders/GPCell.v
+FC:/Users/Dr.Fly/Desktop/FPGAAdders/GPCell.v
+L0 1
+R5
+r1
+31
+R6
+n@g@p@cell
+!s100 OOAa?EC`OjOJ[WkhY7J9C1
+!s108 1706278387.010000
+!s107 C:/Users/Dr.Fly/Desktop/FPGAAdders/GPCell.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Dr.Fly/Desktop/FPGAAdders/GPCell.v|
+!i10b 1
+!s85 0
+vGrayCell
+I<KYlJZ_H?@dAa10V<kP=92
+VO@KIHMU>hF?IgUS5z]eBZ0
+R4
+w1705084350
+8C:/Users/Dr.Fly/Desktop/FPGAAdders/GrayCell.v
+FC:/Users/Dr.Fly/Desktop/FPGAAdders/GrayCell.v
+L0 2
+R5
+r1
+31
+R6
+n@gray@cell
+!s100 =SNjIzaL5J2R@JX:aO_n92
+!s108 1706278387.135000
+!s107 C:/Users/Dr.Fly/Desktop/FPGAAdders/GrayCell.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Dr.Fly/Desktop/FPGAAdders/GrayCell.v|
+!i10b 1
+!s85 0
+vHanCarlson32b
+IC6ZQPDz`PR4Rl2VQTGCX73
+VB0fa5;ne6VB@bJ_^XcIYL1
+R4
+Z21 w1706450959
+8C:/Users/Dr.Fly/Desktop/FPGAAdders/HanCarlson32b.v
+FC:/Users/Dr.Fly/Desktop/FPGAAdders/HanCarlson32b.v
+L0 1
+R5
+r1
+31
+R6
+n@han@carlson32b
+!s100 9Z_@i<E^4AiR_Pk<=NNI53
+!s108 1706451021.907000
+!s107 C:/Users/Dr.Fly/Desktop/FPGAAdders/HanCarlson32b.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Dr.Fly/Desktop/FPGAAdders/HanCarlson32b.v|
+!i10b 1
+!s85 0
+vHanCarlson32b_tb
+I?9SYMRV4j1@:64=aR161z1
+VVi7n^mncVoN_2Ef<P^dGS1
+R4
+R21
+8C:/Users/Dr.Fly/Desktop/FPGAAdders/HanCarlson32b_tb.v
+FC:/Users/Dr.Fly/Desktop/FPGAAdders/HanCarlson32b_tb.v
+L0 1
+R5
+r1
+31
+R6
+n@han@carlson32b_tb
+!s100 6WYM43ISC5e9Po3XnHKF41
+!s108 1706451086.194000
+!s107 C:/Users/Dr.Fly/Desktop/FPGAAdders/HanCarlson32b_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Dr.Fly/Desktop/FPGAAdders/HanCarlson32b_tb.v|
+!i10b 1
+!s85 0
+vHanCarlson8b
+I]OX3`ic<H@==c^K]^_K]83
+V;@75@Q`7FGY_6a=f?1ZbA0
+R4
+Z22 w1706471368
+8C:/Users/Dr.Fly/Desktop/FPGAAdders/HanCarlson8b.v
+FC:/Users/Dr.Fly/Desktop/FPGAAdders/HanCarlson8b.v
+L0 1
+R5
+r1
+31
+R6
+n@han@carlson8b
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Dr.Fly/Desktop/FPGAAdders/HanCarlson8b.v|
+!s100 =XA>eS4VYPRh_BGF:Z?1>0
+!s108 1706471419.838000
+!s107 C:/Users/Dr.Fly/Desktop/FPGAAdders/HanCarlson8b.v|
+!i10b 1
+!s85 0
+vHanCarlson8b_tb
+I_`h`?N=@lH`S5mCoAG=Jk2
+V1mNGX6EL]^J5PN728z;zl1
+R4
+R22
+8C:/Users/Dr.Fly/Desktop/FPGAAdders/HanCarlson8b_tb.v
+FC:/Users/Dr.Fly/Desktop/FPGAAdders/HanCarlson8b_tb.v
+L0 3
+R5
+r1
+31
+R6
+n@han@carlson8b_tb
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Dr.Fly/Desktop/FPGAAdders/HanCarlson8b_tb.v|
+!s100 Z7DKF>`8>jRXK^lPYGj3G0
+!s108 1706471408.051000
+!s107 C:/Users/Dr.Fly/Desktop/FPGAAdders/HanCarlson8b_tb.v|
+!i10b 1
+!s85 0
+vKoggeStone16b
+IndobfMQ<A5^e;_QDUKM9l3
+Vf6]6j4?L`E0EJjj[OUFGk3
+R4
+Z23 w1706457446
+8C:/Users/Dr.Fly/Desktop/FPGAAdders/KoggeStone16b.v
+FC:/Users/Dr.Fly/Desktop/FPGAAdders/KoggeStone16b.v
+L0 1
+R5
+r1
+31
+R6
+n@kogge@stone16b
+!s100 2B6WXk]MK<?X?YflG`U2:1
+!s108 1706457917.762000
+!s107 C:/Users/Dr.Fly/Desktop/FPGAAdders/KoggeStone16b.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Dr.Fly/Desktop/FPGAAdders/KoggeStone16b.v|
+!i10b 1
+!s85 0
+vKoggeStone16b_tb
+IbB917[2IodLXGU7<AGi_S3
+Vn4bB<>?4GO_l>=zOo9]?12
+R4
+R23
+8C:/Users/Dr.Fly/Desktop/FPGAAdders/KoggeStone16b_tb.v
+FC:/Users/Dr.Fly/Desktop/FPGAAdders/KoggeStone16b_tb.v
+L0 1
+R5
+r1
+31
+R6
+n@kogge@stone16b_tb
+!s100 gDUW8@JG@>n[UQe`e`8?G2
+!s108 1706457908.145000
+!s107 C:/Users/Dr.Fly/Desktop/FPGAAdders/KoggeStone16b_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Dr.Fly/Desktop/FPGAAdders/KoggeStone16b_tb.v|
+!i10b 1
+!s85 0
+vKoggeStone32b
+ISm:SFmKJ6o_7L[TQbJ@Q51
+V0jf5dkFK2?5BR?F3FnG]o3
+R4
+Z24 w1706471369
+8C:/Users/Dr.Fly/Desktop/FPGAAdders/KoggeStone32b.v
+FC:/Users/Dr.Fly/Desktop/FPGAAdders/KoggeStone32b.v
+L0 1
+R5
+r1
+31
+R6
+n@kogge@stone32b
+!s100 AVGe_?XZIYi0U[Y8cmAQV2
+!s108 1706471556.337000
+!s107 C:/Users/Dr.Fly/Desktop/FPGAAdders/KoggeStone32b.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Dr.Fly/Desktop/FPGAAdders/KoggeStone32b.v|
+!i10b 1
+!s85 0
+vKoggeStone32b_tb
+IPa9fE]RO3RCV@AY4MhCzd2
+V:DB1=M2clOPJ8^40JJkC^1
+R4
+R24
+8C:/Users/Dr.Fly/Desktop/FPGAAdders/KoggeStone32b_tb.v
+FC:/Users/Dr.Fly/Desktop/FPGAAdders/KoggeStone32b_tb.v
+L0 3
+R5
+r1
+31
+R6
+n@kogge@stone32b_tb
+!s100 <CMl]EYlnI_gR4:enh^F[0
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Dr.Fly/Desktop/FPGAAdders/KoggeStone32b_tb.v|
+!s108 1706471640.755000
+!s107 C:/Users/Dr.Fly/Desktop/FPGAAdders/KoggeStone32b_tb.v|
+!i10b 1
+!s85 0
+vLadnerFischer16b
+IXZjoL^4<YkF41C>XZ]=6B0
+VVViSJ5VP6mz@j;:l[T:Fe1
+R4
+Z25 w1706457447
+8C:/Users/Dr.Fly/Desktop/FPGAAdders/LadnerFischer16b.v
+FC:/Users/Dr.Fly/Desktop/FPGAAdders/LadnerFischer16b.v
+L0 1
+R5
+r1
+31
+R6
+n@ladner@fischer16b
+!s100 HG1Y8nd2=C7FM6CbVk?9a0
+!s108 1706458888.600000
+!s107 C:/Users/Dr.Fly/Desktop/FPGAAdders/LadnerFischer16b.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Dr.Fly/Desktop/FPGAAdders/LadnerFischer16b.v|
+!i10b 1
+!s85 0
+vLadnerFischer16b_tb
+IzHK5Wk]498HVi^e6j_B_82
+VK3:fjHRYefhTR4:;:ZT4C0
+R4
+R25
+8C:/Users/Dr.Fly/Desktop/FPGAAdders/LadnerFischer16b_tb.v
+FC:/Users/Dr.Fly/Desktop/FPGAAdders/LadnerFischer16b_tb.v
+L0 1
+R5
+r1
+31
+R6
+n@ladner@fischer16b_tb
+!s100 m[QJeNRC5h?ZMFVbYYemQ0
+!s108 1706458881.784000
+!s107 C:/Users/Dr.Fly/Desktop/FPGAAdders/LadnerFischer16b_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Dr.Fly/Desktop/FPGAAdders/LadnerFischer16b_tb.v|
+!i10b 1
+!s85 0
+vLadnerFischer32b
+IZ=^>zL2>`MSNamW1hzmN<2
+VH2PonOHbNZBdBc>Cd865E2
+R4
+Z26 w1706364727
+8C:/Users/Dr.Fly/Desktop/FPGAAdders/LadnerFischer32b.v
+FC:/Users/Dr.Fly/Desktop/FPGAAdders/LadnerFischer32b.v
+L0 1
+R5
+r1
+31
+R6
+n@ladner@fischer32b
+!s100 PI0>zB_UFn`b24VGA1BP83
+!s108 1706364794.338000
+!s107 C:/Users/Dr.Fly/Desktop/FPGAAdders/LadnerFischer32b.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Dr.Fly/Desktop/FPGAAdders/LadnerFischer32b.v|
+!i10b 1
+!s85 0
+vLadnerFischer32b_tb
+IV8UjTHTRaaNHFoZfR4FjC1
+VEN]mX;lf;CKhhbSY_^UM>3
+R4
+R26
+8C:/Users/Dr.Fly/Desktop/FPGAAdders/LadnerFischer32b_tb.v
+FC:/Users/Dr.Fly/Desktop/FPGAAdders/LadnerFischer32b_tb.v
+L0 1
+R5
+r1
+31
+R6
+n@ladner@fischer32b_tb
+!s100 VP2nWzUKgoa1e3]E[K<W11
+!s108 1706364798.577000
+!s107 C:/Users/Dr.Fly/Desktop/FPGAAdders/LadnerFischer32b_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Dr.Fly/Desktop/FPGAAdders/LadnerFischer32b_tb.v|
+!i10b 1
+!s85 0
+vLadnerFischer8b
+ITbD[3nOU766NRcU=U?>8j1
+V49FEG;N>WQ46Eoj4bYUo_0
+R4
+R25
+8C:/Users/Dr.Fly/Desktop/FPGAAdders/LadnerFischer8b.v
+FC:/Users/Dr.Fly/Desktop/FPGAAdders/LadnerFischer8b.v
+L0 1
+R5
+r1
+31
+R6
+n@ladner@fischer8b
+!s100 _UM>Ih;Oc6F799S[Y`O2M2
+!s108 1706458701.268000
+!s107 C:/Users/Dr.Fly/Desktop/FPGAAdders/LadnerFischer8b.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Dr.Fly/Desktop/FPGAAdders/LadnerFischer8b.v|
+!i10b 1
+!s85 0
+vLadnerFischer8b_tb
+I>ORlUiJVghDRll[J`h0fm1
+VoZT;dM54DGldYGZF3gLCd2
+R4
+R25
+8C:/Users/Dr.Fly/Desktop/FPGAAdders/LadnerFischer8b_tb.v
+FC:/Users/Dr.Fly/Desktop/FPGAAdders/LadnerFischer8b_tb.v
+L0 1
+R5
+r1
+31
+R6
+n@ladner@fischer8b_tb
+!s100 c7h^LL?f0RKDmhE]?cS<A0
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Dr.Fly/Desktop/FPGAAdders/LadnerFischer8b_tb.v|
+!s108 1706458795.076000
+!s107 C:/Users/Dr.Fly/Desktop/FPGAAdders/LadnerFischer8b_tb.v|
+!i10b 1
+!s85 0
+vrippleCarry
+I0ZWSRR5Cg?Jbma3HGZ?3]1
+V:TdjeWBU5]]CW?hCkehLX0
+R4
+w1706281033
+8C:/Users/Dr.Fly/Desktop/FPGAAdders/RippleCarry.v
+FC:/Users/Dr.Fly/Desktop/FPGAAdders/RippleCarry.v
+L0 1
+R5
+r1
+31
+R6
+nripple@carry
+!s100 XKcNkXhhKoOQ3;7=FSR;M0
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Dr.Fly/Desktop/FPGAAdders/RippleCarry.v|
+!s108 1706281161.594000
+!s107 C:/Users/Dr.Fly/Desktop/FPGAAdders/RippleCarry.v|
+!i10b 1
+!s85 0
+vrippleCarry2b
+IKeUZ;gCn6HBDD]4Qafgg:1
+VdR_V4_=l]Db:@Hh8_4:@K1
+R4
+Z27 w1706286478
+8C:/Users/Dr.Fly/Desktop/FPGAAdders/rippleCarry2b.v
+FC:/Users/Dr.Fly/Desktop/FPGAAdders/rippleCarry2b.v
+L0 1
+R5
+r1
+31
+R6
+nripple@carry2b
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Dr.Fly/Desktop/FPGAAdders/rippleCarry2b.v|
+!s100 _oF?Ccf2o^`TVZFPaf;>M2
+!s108 1706286487.874000
+!s107 C:/Users/Dr.Fly/Desktop/FPGAAdders/rippleCarry2b.v|
+!i10b 1
+!s85 0
+vrippleCarry2b_tb
+I<UJA6b3o?0Fm6Ff<V^0Ym2
+VQFfE]]XLKg^dlYd^nD<[82
+R4
+R27
+Z28 8C:/Users/Dr.Fly/Desktop/FPGAAdders/rippleCarry2b_tb.v
+Z29 FC:/Users/Dr.Fly/Desktop/FPGAAdders/rippleCarry2b_tb.v
+L0 1
+R5
+r1
+31
+Z30 !s90 -reportprogress|300|-work|work|-vopt|C:/Users/Dr.Fly/Desktop/FPGAAdders/rippleCarry2b_tb.v|
+R6
+nripple@carry2b_tb
+Z31 !s107 C:/Users/Dr.Fly/Desktop/FPGAAdders/rippleCarry2b_tb.v|
+!s100 A8:VT5Y8F><IIn;LZ:Hb23
+!s108 1706286491.097000
+!i10b 1
+!s85 0
+vrippleCarry32b
+If@hbeb5nP<FY1XUA?dPlA0
+V43<l?24n@heTK>_fU;PUT1
+R4
+Z32 w1706287142
+8C:/Users/Dr.Fly/Desktop/FPGAAdders/rippleCarry32b.v
+FC:/Users/Dr.Fly/Desktop/FPGAAdders/rippleCarry32b.v
+L0 1
+R5
+r1
+31
+R6
+nripple@carry32b
+!s100 ZJG9a244T@flTT4aeoV4?3
+!s108 1706287276.655000
+!s107 C:/Users/Dr.Fly/Desktop/FPGAAdders/rippleCarry32b.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Dr.Fly/Desktop/FPGAAdders/rippleCarry32b.v|
+!i10b 1
+!s85 0
+vrippleCarry32b_tb
+Ie;3_7O=Q`[3?`4edPD3nl3
+VE65CJ:IzDkRWVCP77k30g3
+R4
+R32
+8C:/Users/Dr.Fly/Desktop/FPGAAdders/rippleCarry32b_tb.v
+FC:/Users/Dr.Fly/Desktop/FPGAAdders/rippleCarry32b_tb.v
+L0 1
+R5
+r1
+31
+R6
+nripple@carry32b_tb
+!s100 YO;mEDfRm>gjcPDU2Wh5B1
+!s108 1706287276.727000
+!s107 C:/Users/Dr.Fly/Desktop/FPGAAdders/rippleCarry32b_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Dr.Fly/Desktop/FPGAAdders/rippleCarry32b_tb.v|
+!i10b 1
+!s85 0
+vrippleCarry8b
+IF^@7An;>Q[3lF0[0ZcQGY2
+VNk2[8HSWEK7o4PfSTnC^10
+R4
+Z33 w1706457448
+8C:\Users\Dr.Fly\Desktop\FPGAAdders\rippleCarry8b.v
+FC:\Users\Dr.Fly\Desktop\FPGAAdders\rippleCarry8b.v
+L0 1
+R5
+r1
+31
+R6
+nripple@carry8b
+!s100 hVEj[4a[JTJ0dZdGQ2f>22
+!s108 1706457466.212000
+!s107 C:\Users\Dr.Fly\Desktop\FPGAAdders\rippleCarry8b.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:\Users\Dr.Fly\Desktop\FPGAAdders\rippleCarry8b.v|
+!i10b 1
+!s85 0
+vrippleCarry8b_tb
+I<:JV?m>ZJbHUP[a9jF9bU2
+VTK:3E=fHC8nlS]Qm?0:Y20
+R4
+R33
+8C:\Users\Dr.Fly\Desktop\FPGAAdders\rippleCarry8b_tb.v
+FC:\Users\Dr.Fly\Desktop\FPGAAdders\rippleCarry8b_tb.v
+L0 1
+R5
+r1
+31
+R6
+nripple@carry8b_tb
+!s100 HJN@2oWRYjb<MPmaS6ZOH0
+!s108 1706457458.215000
+!s107 C:\Users\Dr.Fly\Desktop\FPGAAdders\rippleCarry8b_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:\Users\Dr.Fly\Desktop\FPGAAdders\rippleCarry8b_tb.v|
+!i10b 1
+!s85 0
+vtestbench
+I2Y@ZaB3`eESf3HWn2SFzV2
+VhGfW:390DM[oDMzegDH9`2
+R4
+w1706280805
+R28
+R29
+L0 1
+R5
+r1
+31
+R30
+R6
+R31
+!s100 bjWZ4P[ZcK74TQZCMPZeG2
+!s108 1706280818.765000
+!i10b 1
+!s85 0

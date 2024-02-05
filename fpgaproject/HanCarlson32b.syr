@@ -1,0 +1,340 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.19 secs
+ 
+--> Parameter xsthdpdir set to xst
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.19 secs
+ 
+--> Reading design: HanCarlson32b.prj
+
+TABLE OF CONTENTS
+  1) Synthesis Options Summary
+  2) HDL Compilation
+  3) Design Hierarchy Analysis
+  4) HDL Analysis
+  5) HDL Synthesis
+     5.1) HDL Synthesis Report
+  6) Advanced HDL Synthesis
+     6.1) Advanced HDL Synthesis Report
+  7) Low Level Synthesis
+  8) Partition Report
+  9) Final Report
+	9.1) Device utilization summary
+	9.2) Partition Resource Summary
+	9.3) TIMING REPORT
+
+
+=========================================================================
+*                      Synthesis Options Summary                        *
+=========================================================================
+---- Source Parameters
+Input File Name                    : "HanCarlson32b.prj"
+Input Format                       : mixed
+Ignore Synthesis Constraint File   : NO
+
+---- Target Parameters
+Output File Name                   : "HanCarlson32b"
+Output Format                      : NGC
+Target Device                      : xc3s50-5-pq208
+
+---- Source Options
+Top Module Name                    : HanCarlson32b
+Automatic FSM Extraction           : YES
+FSM Encoding Algorithm             : Auto
+Safe Implementation                : No
+FSM Style                          : LUT
+RAM Extraction                     : Yes
+RAM Style                          : Auto
+ROM Extraction                     : Yes
+Mux Style                          : Auto
+Decoder Extraction                 : YES
+Priority Encoder Extraction        : Yes
+Shift Register Extraction          : YES
+Logical Shifter Extraction         : YES
+XOR Collapsing                     : YES
+ROM Style                          : Auto
+Mux Extraction                     : Yes
+Resource Sharing                   : YES
+Asynchronous To Synchronous        : NO
+Multiplier Style                   : Auto
+Automatic Register Balancing       : No
+
+---- Target Options
+Add IO Buffers                     : YES
+Global Maximum Fanout              : 100000
+Add Generic Clock Buffer(BUFG)     : 8
+Register Duplication               : YES
+Slice Packing                      : YES
+Optimize Instantiated Primitives   : NO
+Use Clock Enable                   : Yes
+Use Synchronous Set                : Yes
+Use Synchronous Reset              : Yes
+Pack IO Registers into IOBs        : Auto
+Equivalent register Removal        : YES
+
+---- General Options
+Optimization Goal                  : Speed
+Optimization Effort                : 1
+Keep Hierarchy                     : No
+Netlist Hierarchy                  : As_Optimized
+RTL Output                         : Yes
+Global Optimization                : AllClockNets
+Read Cores                         : YES
+Write Timing Constraints           : NO
+Cross Clock Analysis               : NO
+Hierarchy Separator                : /
+Bus Delimiter                      : <>
+Case Specifier                     : Maintain
+Slice Utilization Ratio            : 100
+BRAM Utilization Ratio             : 100
+Verilog 2001                       : YES
+Auto BRAM Packing                  : NO
+Slice Utilization Ratio Delta      : 5
+
+=========================================================================
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling verilog file "../GrayCell.v" in library work
+Compiling verilog file "../GPCell.v" in library work
+Module <GrayCell> compiled
+Compiling verilog file "../BlackCell.v" in library work
+Module <GPCell> compiled
+Compiling verilog file "../HanCarlson32b.v" in library work
+Module <BlackCell> compiled
+Module <HanCarlson32b> compiled
+No errors in compilation
+Analysis of file <"HanCarlson32b.prj"> succeeded.
+ 
+
+=========================================================================
+*                     Design Hierarchy Analysis                         *
+=========================================================================
+Analyzing hierarchy for module <HanCarlson32b> in library <work>.
+
+Analyzing hierarchy for module <BlackCell> in library <work>.
+
+Analyzing hierarchy for module <GPCell> in library <work>.
+
+Analyzing hierarchy for module <GrayCell> in library <work>.
+
+
+=========================================================================
+*                            HDL Analysis                               *
+=========================================================================
+Analyzing top module <HanCarlson32b>.
+Module <HanCarlson32b> is correct for synthesis.
+ 
+Analyzing module <BlackCell> in library <work>.
+Module <BlackCell> is correct for synthesis.
+ 
+Analyzing module <GPCell> in library <work>.
+Module <GPCell> is correct for synthesis.
+ 
+Analyzing module <GrayCell> in library <work>.
+Module <GrayCell> is correct for synthesis.
+ 
+
+=========================================================================
+*                           HDL Synthesis                               *
+=========================================================================
+
+Performing bidirectional port resolution...
+
+Synthesizing Unit <BlackCell>.
+    Related source file is "../BlackCell.v".
+Unit <BlackCell> synthesized.
+
+
+Synthesizing Unit <GPCell>.
+    Related source file is "../GPCell.v".
+    Found 1-bit xor2 for signal <P>.
+Unit <GPCell> synthesized.
+
+
+Synthesizing Unit <GrayCell>.
+    Related source file is "../GrayCell.v".
+Unit <GrayCell> synthesized.
+
+
+Synthesizing Unit <HanCarlson32b>.
+    Related source file is "../HanCarlson32b.v".
+    Found 31-bit xor2 for signal <S<31:1>>.
+Unit <HanCarlson32b> synthesized.
+
+
+=========================================================================
+HDL Synthesis Report
+
+Macro Statistics
+# Xors                                                 : 63
+ 1-bit xor2                                            : 63
+
+=========================================================================
+
+=========================================================================
+*                       Advanced HDL Synthesis                          *
+=========================================================================
+
+
+=========================================================================
+Advanced HDL Synthesis Report
+
+Macro Statistics
+# Xors                                                 : 63
+ 1-bit xor2                                            : 63
+
+=========================================================================
+
+=========================================================================
+*                         Low Level Synthesis                           *
+=========================================================================
+
+Optimizing unit <HanCarlson32b> ...
+
+Mapping all equations...
+Building and optimizing final netlist ...
+Found area constraint ratio of 100 (+ 5) on block HanCarlson32b, actual ratio is 9.
+
+Final Macro Processing ...
+
+=========================================================================
+Final Register Report
+
+Found no macro
+=========================================================================
+
+=========================================================================
+*                           Partition Report                            *
+=========================================================================
+
+Partition Implementation Status
+-------------------------------
+
+  No Partitions were found in this design.
+
+-------------------------------
+
+=========================================================================
+*                            Final Report                               *
+=========================================================================
+Final Results
+RTL Top Level Output File Name     : HanCarlson32b.ngr
+Top Level Output File Name         : HanCarlson32b
+Output Format                      : NGC
+Optimization Goal                  : Speed
+Keep Hierarchy                     : No
+
+Design Statistics
+# IOs                              : 97
+
+Cell Usage :
+# BELS                             : 135
+#      LUT2                        : 11
+#      LUT3                        : 20
+#      LUT4                        : 95
+#      MUXF5                       : 9
+# IO Buffers                       : 97
+#      IBUF                        : 64
+#      OBUF                        : 33
+=========================================================================
+
+Device utilization summary:
+---------------------------
+
+Selected Device : 3s50pq208-5 
+
+ Number of Slices:                       71  out of    768     9%  
+ Number of 4 input LUTs:                126  out of   1536     8%  
+ Number of IOs:                          97
+ Number of bonded IOBs:                  97  out of    124    78%  
+
+---------------------------
+Partition Resource Summary:
+---------------------------
+
+  No Partitions were found in this design.
+
+---------------------------
+
+
+=========================================================================
+TIMING REPORT
+
+NOTE: THESE TIMING NUMBERS ARE ONLY A SYNTHESIS ESTIMATE.
+      FOR ACCURATE TIMING INFORMATION PLEASE REFER TO THE TRACE REPORT
+      GENERATED AFTER PLACE-and-ROUTE.
+
+Clock Information:
+------------------
+No clock signals found in this design
+
+Asynchronous Control Signals Information:
+----------------------------------------
+No asynchronous control signals found in this design
+
+Timing Summary:
+---------------
+Speed Grade: -5
+
+   Minimum period: No path found
+   Minimum input arrival time before clock: No path found
+   Maximum output required time after clock: No path found
+   Maximum combinational path delay: 21.083ns
+
+Timing Detail:
+--------------
+All values displayed in nanoseconds (ns)
+
+=========================================================================
+Timing constraint: Default path analysis
+  Total number of paths / destination ports: 2420 / 33
+-------------------------------------------------------------------------
+Delay:               21.083ns (Levels of Logic = 13)
+  Source:            B<3> (PAD)
+  Destination:       S<31> (PAD)
+
+  Data Path: B<3> to S<31>
+                                Gate     Net
+    Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
+    ----------------------------------------  ------------
+     IBUF:I->O             4   0.715   1.074  B_3_IBUF (B_3_IBUF)
+     LUT2:I0->O            2   0.479   0.804  UGP3/Mxor_P_Result1 (p_0_3_3)
+     LUT4:I2->O            2   0.479   1.040  U48/PIJ1 (p_2_2_5)
+     LUT3:I0->O            3   0.479   0.794  U62/GIJ1 (g_3_0_5)
+     LUT4:I3->O            1   0.479   0.740  U78/GIJ_SW0 (N85)
+     LUT4:I2->O            3   0.479   0.830  U78/GIJ (g_4_0_13)
+     LUT4:I2->O            2   0.479   0.915  U94/GIJ110 (U94/GIJ110)
+     LUT2:I1->O            2   0.479   0.804  U94/GIJ113 (N18)
+     LUT4:I2->O            1   0.479   0.740  U94/GIJ5 (U94/GIJ5)
+     LUT4:I2->O            2   0.479   0.915  U94/GIJ17 (U94/GIJ17)
+     LUT3:I1->O            1   0.479   0.851  U94/GIJ29 (g_5_0_29)
+     LUT4:I1->O            1   0.479   0.681  Mxor_S<31>_Result1 (S_31_OBUF)
+     OBUF:I->O                 4.909          S_31_OBUF (S<31>)
+    ----------------------------------------
+    Total                     21.083ns (10.893ns logic, 10.190ns route)
+                                       (51.7% logic, 48.3% route)
+
+=========================================================================
+
+
+Total REAL time to Xst completion: 6.00 secs
+Total CPU time to Xst completion: 5.47 secs
+ 
+--> 
+
+Total memory usage is 4513708 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    0 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

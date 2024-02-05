@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "C:/Users/Dr.Fly/Desktop/FPGAAdders/fpgaproject/BrentKung8b_tb_isim_beh.exe" -prj "C:/Users/Dr.Fly/Desktop/FPGAAdders/fpgaproject/BrentKung8b_tb_beh.prj" "work.BrentKung8b_tb" "work.glbl" 

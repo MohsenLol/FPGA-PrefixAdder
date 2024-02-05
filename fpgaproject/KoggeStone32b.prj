@@ -1,0 +1,4 @@
+verilog work "../GrayCell.v"
+verilog work "../GPCell.v"
+verilog work "../BlackCell.v"
+verilog work "../KoggeStone32b.v"

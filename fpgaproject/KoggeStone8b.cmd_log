@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/Dr.Fly/Desktop/FPGAAdders/fpgaproject/KoggeStone8b.xst" -ofn "C:/Users/Dr.Fly/Desktop/FPGAAdders/fpgaproject/KoggeStone8b.syr" 
