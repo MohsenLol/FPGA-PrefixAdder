@@ -1,3 +1,3 @@
-<b> UT Project </b>
-<b>n-bits Prefix Adder Generation </b>
+<b> UT Project </b><br>
+<b>n-bit Prefix Adder Generation </b><br>
 Refer to the main.ipynb for more info.
